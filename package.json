@@ -1,11 +1,11 @@
 {
   "name": "@transmute/rsasignature2017",
   "version": "0.1.0",
-  "description": "A minimal implementation of RsaSignature2017 in JavaScript.",
+  "description": "A minimal implementation of RsaSignature2017",
   "main": "./src/index.js",
   "scripts": {
     "test": "jest --coverage --testPathIgnorePatterns __fixtures__ -- ",
-    "coverage:report": "codecov",
+    "codecov": "codecov",
     "coveralls": "cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js"
   },
   "repository": {
