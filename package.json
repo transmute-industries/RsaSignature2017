@@ -1,0 +1,28 @@
+{
+  "name": "@transmute/rsasignature2017",
+  "version": "0.1.0",
+  "description": "A minimal implementation of RsaSignature2017 in JavaScript.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "jest --env node --coverage --testPathIgnorePatterns __fixtures__ -- ",
+    "coverage:report": "codecov"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transmute-industries/RsaSignature2017.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/transmute-industries/RsaSignature2017/issues"
+  },
+  "homepage": "https://github.com/transmute-industries/RsaSignature2017#readme",
+  "devDependencies": {
+    "codecov": "^3.1.0",
+    "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "generate-rsa-keypair": "^0.1.2",
+    "jsonld": "^1.4.0"
+  }
+}
