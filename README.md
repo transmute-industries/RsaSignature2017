@@ -1,6 +1,6 @@
 # RsaSignature2017
 
-[![Build Status](https://travis-ci.org/transmute-industries/RsaSignature2017.svg?branch=master)](https://travis-ci.org/transmute-industries/RsaSignature2017) [![codecov](https://codecov.io/gh/transmute-industries/RsaSignature2017/branch/master/graph/badge.svg)](https://codecov.io/gh/transmute-industries/RsaSignature2017)
+[![Build Status](https://travis-ci.org/transmute-industries/RsaSignature2017.svg?branch=master)](https://travis-ci.org/transmute-industries/RsaSignature2017) [![codecov](https://codecov.io/gh/transmute-industries/RsaSignature2017/branch/master/graph/badge.svg)](https://codecov.io/gh/transmute-industries/RsaSignature2017)  [![Coverage Status](https://coveralls.io/repos/github/transmute-industries/RsaSignature2017/badge.svg?branch=master)](https://coveralls.io/github/transmute-industries/RsaSignature2017?branch=master)
 
 A minimal implementation of RsaSignature2017 in JavaScript.
 
