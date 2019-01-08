@@ -4,7 +4,7 @@
   "description": "A minimal implementation of RsaSignature2017 in JavaScript.",
   "main": "./src/index.js",
   "scripts": {
-    "test": "jest --env node --coverage --testPathIgnorePatterns __fixtures__ -- ",
+    "test": "jest --coverage --testPathIgnorePatterns __fixtures__ -- ",
     "coverage:report": "codecov"
   },
   "repository": {
