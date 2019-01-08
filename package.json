@@ -1,5 +1,5 @@
 {
-  "name": "rsasignature2017",
+  "name": "@transmute/rsasignature2017",
   "version": "0.1.0",
   "description": "A minimal implementation of RsaSignature2017 in JavaScript.",
   "main": "./src/index.js",
