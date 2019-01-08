@@ -4,7 +4,7 @@
 
 A minimal implementation of RsaSignature2017 in JavaScript.
 
-NEEDS TO BE ADDED HERE: https://github.com/w3c-ccg/ld-cryptosuite-registry
+- [Works with Mastodon](https://github.com/tootsuite/mastodon/blob/cabdbb7f9c1df8007749d07a2e186bb3ad35f62b/app/lib/activitypub/linked_data_signature.rb#L37).
 
 #### Example
 
