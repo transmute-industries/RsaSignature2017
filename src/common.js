@@ -14,7 +14,7 @@ const sha256 = data => {
 const createVerifyData = async (data, options) => {
   const transformedOptions = {
     ...options,
-    "@context": "https://w3id.org/identity/v1"
+    "@context": "https://w3c-ccg.github.io/security-vocab/contexts/security-v1.jsonld"
   };
   delete transformedOptions["type"];
   delete transformedOptions["id"];
